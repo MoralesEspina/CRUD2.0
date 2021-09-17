@@ -3,7 +3,7 @@
     const password = 'pnzs8p59hrocvon8';
     const database = "yt23oldwpm5owhkn";
 
-    exports.host=host;
+    exports.host=host; 
     exports.user=user;
     exports.password=password;
     exports.database=database;
